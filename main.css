@@ -1,0 +1,95 @@
+body, html{
+  width: 98%;
+  margin: auto;
+}
+
+div {
+  border: 1px solid grey;
+  display: inline-block;
+}
+
+div {
+  width: 90%;
+  height: 3rem;
+  margin: 2rem;
+
+}
+
+/*top*/
+
+.top {
+
+}
+
+/*middle*/
+
+.middle-container {
+  position: relative;
+  width: 100%;
+  height: 24rem;
+
+
+}
+
+.left {
+  width: 30%;
+  height: 80%;
+  float: left;
+  display: inline-block;
+  margin: 1rem;
+}
+
+
+
+.right {
+  width: 65%;
+  height: 80%;
+  float: left;
+  display: inline-block;
+  margin: 1rem;
+}
+
+
+
+
+.middle {
+
+
+}
+
+.list-container {
+
+}
+
+ul{
+  height: 5rem;
+  poistion: relative;
+}
+
+
+li {
+  display: inline-block;
+  height: 1rem;
+  width: 10%;
+  border: 1px solid grey;
+
+}
+
+
+/*bottom*/
+
+.bottom-container {
+  position: relative;
+  width: 100%;
+  height: 5rem;
+}
+
+.bottom-inner {
+  width: 46%;
+  height: 50%;
+  float: left;
+  display: inline-block;
+  margin: 1.5rem;
+
+}
+
